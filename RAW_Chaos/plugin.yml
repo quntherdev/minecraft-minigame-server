@@ -1,0 +1,7 @@
+main: fr.qunther.raw_chaos.Chaos
+version: 1.0
+name: RAW_Chaos
+author: Qunther
+commands:
+  force_erase:
+    description: Raser les builds de la map
