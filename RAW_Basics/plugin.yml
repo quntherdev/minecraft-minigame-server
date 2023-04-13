@@ -1,0 +1,25 @@
+name: RAW_Basics
+version: 1.0
+author: Qunther
+main: fr.qunther.raw_basics.Main
+commands:
+  runban:
+    description: Débannir un joueur
+  rban:
+    description: Bannir un joueur
+  rmute:
+    description: Muter un joueur
+  runmute:
+    description: Démuter un joueur
+  discord:
+    description: Envoie lien vers discord de RAW
+  boutique:
+    description: Envoie lien vers site de la boutique de RAW
+  site:
+    description: Envoie lien vers site de RAW
+  classement_chaos:
+    description: Vous envoie votre classement dans le jeu Chaos, ainsi que le classement des 5 meilleurs joueurs dans le même jeu.
+  admin:
+    description: Mode admin.
+  addcoins:
+    description: coins
