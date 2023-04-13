@@ -1,0 +1,7 @@
+main: fr.qunther.raw_hub.Main
+version: 1.0
+name: RAW_Hub
+author: Qunther
+commands:
+  spawn:
+    description: Revenir au spawn quand on est au Hub.
